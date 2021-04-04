@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    width: auto;
+}
+
+#contact iframe {
+    width: auto;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+#marqueeStyle {
+    background-color: antiquewhite;
+    color: crimson;
+}
+
+
+
+img {
+    position: absolute;
+}
+
+
+
+#video {
+    width: 70%;
+    height: auto;
+}
+.module {
+  max-width: 250px;
+  padding: 1rem;
+  color: black;
+  border-width: 3px;
+  border-style: solid;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      red, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
+/*style="border-image: linear-gradient(to bottom, red, rgba(0, 0, 0, 0))"*/
